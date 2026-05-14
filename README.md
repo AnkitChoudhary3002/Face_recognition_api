@@ -25,8 +25,6 @@ Main files:
 - `app.py` - FastAPI application and API endpoints.
 - `database.py` - SQLite database helpers for saving and retrieving users.
 - `face_utils.py` - Image loading, face detection, embedding extraction, and comparison helpers.
-- `database.db` - Local SQLite database file.
-- `uploads/` - Folder for uploaded or temporary image files.
 - `requirements.txt` - Python dependencies.
 
 ## Requirements
