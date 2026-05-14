@@ -15,16 +15,9 @@ This project is a small FastAPI service for registering users with a face image 
 face_recognition/
 |-- app.py
 |-- database.py
-|-- database.db
 |-- face_utils.py
 |-- README.md
 |-- requirements.txt
-|-- uploads/
-|-- __pycache__/
-`-- fcenv/
-	|-- Include/
-	|-- Lib/
-	`-- Scripts/
 ```
 
 Main files:
